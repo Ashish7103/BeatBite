@@ -1,12 +1,12 @@
-# v-music
+# BeatBite
 
-v-music is a web application that allows users to search for music using the Spotify API and play 30-second song previews. It is built with React, Bootstrap, and the Spotify Web API ( throught nocodeapi ).
+BeatBite is a dynamic web application that allows users to search for any music using the Spotify API and listen to 30-second song previews. Built with React, Bootstrap, and the Spotify Web API (via NoCodeAPI), BeatBite offers a seamless music discovery experience.
 
 ## Installation
 
 To run this project locally, follow these steps:
 
-1. Clone this repository using `git clone https://github.com/vishesh-pandey/v-music.git`
+1. Clone this repository using `git clone https://github.com/Ashish7103/BeatBite.git`
 2. Install dependencies using `npm install`
 3. Start the development server using `npm start`
 
