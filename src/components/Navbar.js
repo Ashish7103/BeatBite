@@ -15,7 +15,7 @@ const Navbar = ({ keyword, handleKeyPress, setKeyword, fetchMusicData }) => {
       <nav className="navbar navbar-dark navbar-expand-lg bg-dark sticky-top">
         <div className="container-fluid">
           <Link className="navbar-brand" to="/">
-            <i className="bi bi-music-note-list mx-3"></i> v-music
+            <i className="bi bi-music-note-list mx-3"></i> BeatBite
           </Link>
           <div>
             <button
