@@ -2,7 +2,7 @@
 
 BeatBite is a dynamic web application that allows users to search for any music using the Spotify API and listen to 30-second song previews. Built with React, Bootstrap, and the Spotify Web API (via NoCodeAPI), BeatBite offers a seamless music discovery experience.
 
-#Live project
+## Live project
 https://beatbite.netlify.app/
 
 ## Installation
